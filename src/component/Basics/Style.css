@@ -45,11 +45,13 @@
   }
   
   .card-container img {
-    max-width: 100%;
+    width: 400px;
     height: 300px;
+
   }
   
   .card {
+    
     background-color: #fff;
     padding: 30px;
     position: relative;

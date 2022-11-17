@@ -6,7 +6,7 @@ const Menu = [
       category: "breakfast",
       price: "12₹",
       description:
-        "I love Maggi realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+        "I love Maggi realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta. ",
     },
   
     {
@@ -48,7 +48,7 @@ const Menu = [
     {
       id: 6,
       image: "../images/nonvegthali.jpg",
-      name: "Non-Veg Thali",
+      name: "Chicken",
       category: "dinner",
       price: "180₹",
       description:
@@ -75,7 +75,7 @@ const Menu = [
     {
       id: 9,
       image: "../images/samosa.jpg",
-      name: "samaso",
+      name: "samosa",
       category: "evening",
       price: "10₹",
       description:
